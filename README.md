@@ -9,3 +9,25 @@ A simple timer made using Javascript, HTML5 and CSS3.
 2. Open the extracted folder and search for index.html
 3. Run index.html file using chrome browser
 ```
+
+
+## FOLDER STRUCTURE
+
+```
++
+|
+|------ index.html
+|
+|------ js
+|	|
+|	|--- main.js
+|	|--- stopwatch.js
+|	
+|------ css
+|	|
+|	|--- index.css
+|
+|------ README.md
+|
++
+```
